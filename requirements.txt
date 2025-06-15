@@ -1,0 +1,9 @@
+Django>=4.2
+djangorestframework>=3.14
+djangorestframework-simplejwt
+python-decouple
+celery
+django-celery-results
+redis
+python-telegram-bot==20.5
+gunicorn
